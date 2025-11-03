@@ -1,0 +1,6 @@
+# The Royal Archive Map (Historical Manuscript)
+Hall Treasury
+Hall Library
+Library Scriptorium
+Treasury Vault
+Vault SecretRoom
